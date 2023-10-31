@@ -1,1 +1,1 @@
-# ask-chatGPT
+Tutorial I made for this code: https://carolkoppdev.wordpress.com/2023/10/31/reading-a-list-of-books-in-excel-researching-their-country-of-origin-and-recording-the-information-in-a-new-column-of-the-file-using-chatgpt/
